@@ -1,0 +1,15 @@
+{
+"name":"Airport Icon", 
+"description":"Desing By shiaochiao", 
+"icons":
+[	
+	{"name":"AmyTelecom", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/AmyTelecom.png"},
+	{"name":"Dler", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Dler.png"},
+	{"name":"FlowerCloud", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/FlowerCloud.png"},
+	{"name":"ImmTelecom", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Imm.png"},
+	{"name":"JustMySocks", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/JMS.png"},
+	{"name":"Kuromis", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Kuromis.png"},
+	{"name":"Nexitally", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Nexitally.png"},
+	{"name":"TAG", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/TAG.png"}
+]
+}
