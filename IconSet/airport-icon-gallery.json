@@ -3,13 +3,13 @@
 "description":"Desing By shiaochiao", 
 "icons":
 [	
-	{"name":"AmyTelecom", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/AmyTelecom.png"},
-	{"name":"Dler", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Dler.png"},
-	{"name":"FlowerCloud", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/FlowerCloud.png"},
-	{"name":"ImmTelecom", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Imm.png"},
-	{"name":"JustMySocks", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/JMS.png"},
-	{"name":"Kuromis", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Kuromis.png"},
-	{"name":"Nexitally", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Nexitally.png"},
-	{"name":"TAG", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/TAG.png"}
+	{"name":"AmyTelecom", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Airport/AmyTelecom.png"},
+	{"name":"Dler", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Airport/Dler.png"},
+	{"name":"FlowerCloud", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Airport/FlowerCloud.png"},
+	{"name":"ImmTelecom", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Airport/Imm.png"},
+	{"name":"JustMySocks", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Airport/JMS.png"},
+	{"name":"Kuromis", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Airport/Kuromis.png"},
+	{"name":"Nexitally", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Airport/Nexitally.png"},
+	{"name":"TAG", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Airport/TAG.png"}
 ]
 }
