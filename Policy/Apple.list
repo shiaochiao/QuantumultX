@@ -1,0 +1,33 @@
+# > Apple
+HOST-SUFFIX,apple.co,Apple
+HOST-SUFFIX,apple.com,Apple
+HOST-SUFFIX,apple-dns.net,Apple
+HOST-SUFFIX,cdn-apple.com,Apple
+#HOST-SUFFIX,mzstatic.com,Apple
+
+# Apple Developer
+HOST-WILDCARD,appleworldwidedeveloper.*.net,Apple
+
+# Apple Intelligence Siri and Search
+HOST-KEYWORD,apple-relay,Apple
+HOST-SUFFIX,smoot.apple.com,Apple
+HOST,guzzoni.apple.com,Apple
+
+# Apple Music
+USER-AGENT,Music*,Apple
+
+# App Store
+USER-AGENT,com.apple.appstored*,Apple
+
+# iTunes
+HOST-SUFFIX,itunes.com,Apple
+
+# Look Up
+HOST,lookup-api.apple.com,Apple
+
+# OCSP
+USER-AGENT,com.apple.trustd*,Apple
+HOST,ocsp.apple.com,Apple
+
+# Safari
+HOST-SUFFIX,safebrowsing.apple,Apple

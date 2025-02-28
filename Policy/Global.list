@@ -1,0 +1,48 @@
+# Dailymotion
+host-suffix, dai.ly, proxy
+host-suffix, dailymotion.com, proxy
+host-suffix, dm-event.net, proxy
+host-suffix, dmcdn.net, proxy
+host-suffix, dmxleo.com, proxy
+
+# Instagram mirror
+host-suffix, piokok.com, proxy
+host-suffix, imginn.com, proxy
+
+# IMDb
+host-suffix, imdb.com, proxy
+host-suffix, imdb.to, proxy
+host-suffix, media-imdb.com, proxy
+
+# Nivod
+host-suffix, nivod.vip, proxy
+
+# oLe
+host-suffix, olehdtv.com, proxy
+host-suffix, olelive.com, proxy
+host-suffix, olevod.com, proxy
+host-suffix, olevod.io, proxy
+host-suffix, olevod.tv, proxy
+host-suffix, olemovienews.com, proxy
+
+# Pixiv
+host-suffix, pixiv.cat, proxy
+host-suffix, pixiv.co.jp, proxy
+host-suffix, pixiv.me, proxy
+host-suffix, pixiv.net, proxy
+host-suffix, pixiv.org, proxy
+host-suffix, pximg.net, proxy
+
+# Pixnet
+host-suffix, pimg.tw, proxy
+host-suffix, pixanalytics.com, proxy
+host-suffix, pixfs.net, proxy
+host-suffix, pixinsight.com.tw, proxy
+host-suffix, pixnet.cc, proxy
+host-suffix, pixnet.net, proxy
+host-suffix, pixnet.pro, proxy
+host-suffix, pixnet.tw, proxy
+host-suffix, pixplug.in, proxy
+
+# blocked_misc
+host-keyword, ., proxy
