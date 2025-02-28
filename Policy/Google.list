@@ -1,0 +1,53 @@
+# >> Google
+host-keyword,google,Google
+host-suffix,google.com,Google
+
+# > Alphabet
+host-suffix,abc.xyz,Google
+host-suffix,capitalg.com,Google
+
+# > Google AI
+host-suffix,autodraw.com,Google
+host-suffix,deepmind.com,Google
+host-suffix,tensorflow.org,Google
+host-suffix,tfhub.dev,Google
+
+# > Google APIs
+host-suffix,googleapis.com,Google
+
+# > Google Cloud Platform
+host-suffix,dialogflow.com,Google
+host-suffix,gcp.gvt2.com,Google
+
+# > Google Developer
+host-suffix,godoc.org,Google
+host-suffix,golang.org,Google
+host-suffix,googlemashups.com,Google
+host-suffix,gwtproject.org,Google
+host-suffix,itasoftware.com,Google
+host-suffix,pkg.go.dev,Google
+host-suffix,shattered.io,Google
+host-suffix,waveprotocol.org,Google
+host-suffix,webmproject.org,Google
+host-suffix,webrtc.org,Google
+host-suffix,withgoogle.com,Google
+
+# > Google Education
+host-suffix,madewithcode.com,Google
+
+# > Google Enterprise
+host-suffix,synergyse.com,Google
+
+# > Gmail
+host-suffix,gmail.com,Google
+
+# > Google Recaptcha
+host-keyword,recaptcha,Google
+
+# > Google Static Files
+host-suffix,gstatic.com,Google
+host-suffix,gmodules.com,Google
+host-suffix,googleusercontent.com,Google
+host-suffix,gvt0.com,Google
+host-suffix,gvt1.com,Google
+host-suffix,gvt3.com,Google
