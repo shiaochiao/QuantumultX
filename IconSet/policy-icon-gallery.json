@@ -1,0 +1,22 @@
+{
+"name":"Policy Icon", 
+"description":"Desing By shiaochiao", 
+"icons":
+[	
+	{"name":"Direct", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/direct.png"},
+	{"name":"Final", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/final.png"},
+	{"name":"Mail", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/Mail.png"},
+	{"name":"Proxy", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/proxy.png"},
+
+	{"name":"Netflix", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/Netflix.png"},
+	{"name":"Tiktok", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/TikTok.png"},
+	{"name":"YouTube", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/YouTube.png"},
+
+	{"name":"Apple", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/Apple.png"},
+	{"name":"GitHub", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/github.png"},
+	{"name":"Google", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/Google.png"},
+	{"name":"Microsoft", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/Microsoft.png"},
+	{"name":"Speedtest", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/Speedtest.png"},
+	{"name":"Spotify", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/refs/heads/master/IconSet/Policy/Spotify.png"},
+]
+}
