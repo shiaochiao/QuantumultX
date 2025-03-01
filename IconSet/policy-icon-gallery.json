@@ -3,12 +3,12 @@
 "description":"Desing By shiaochiao", 
 "icons":
 [	
-	{"name":"Direct", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Policy/direct.png"},
-	{"name":"Proxy", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Policy/Proxy.png"},
+	{"name":"DIRECT", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Policy/direct.png"},
+	{"name":"PROXY", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Policy/proxy.png"},
 	{"name":"Mail", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Policy/Mail.png"},
 
 	{"name":"Apple", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Policy/Apple.png"},
-	{"name":"GitHub", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Policy/github.png"},
+	{"name":"Github", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Policy/github.png"},
 	{"name":"Google", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Policy/Google.png"},
 	{"name":"Microsoft", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Policy/Microsoft.png"},
 	{"name":"Netflix", "url":"https://raw.githubusercontent.com/shiaochiao/QuantumultX/master/IconSet/Policy/Netflix.png"},
